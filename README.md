@@ -3,23 +3,47 @@
 Four minimal dark [Omarchy](https://omarchy.org) themes and the generator that
 builds them.
 
-| Theme | Accent | | |
-|---|---|---|---|
-| **Noct Umbra** | `#a69bf7` | neutral graphite, one lilac signal | [repo](https://github.com/senu-nk/omarchy-noct-umbra-theme) |
-| **Noct Cinder** | `#eb8666` | warm ink, clay ember | [repo](https://github.com/senu-nk/omarchy-noct-cinder-theme) |
-| **Noct Halcyon** | `#70d8ba` | deep petrol, seafoam light | [repo](https://github.com/senu-nk/omarchy-noct-halcyon-theme) |
-| **Noct Nimbus** | `#92d1f1` | cold slate, pale steel | [repo](https://github.com/senu-nk/omarchy-noct-nimbus-theme) |
+### Noct Umbra · `#a69bf7`
 
-All four are prefixed `noct-` so they sort together in `omarchy theme list`.
+*neutral graphite, one lilac signal*
 
-## Install
+[![Noct Umbra](previews/noct-umbra.webp)](https://github.com/senu-nk/omarchy-noct-umbra-theme)
 
 ```bash
 omarchy theme install https://github.com/senu-nk/omarchy-noct-umbra-theme
+```
+
+### Noct Cinder · `#eb8666`
+
+*warm ink, clay ember*
+
+[![Noct Cinder](previews/noct-cinder.webp)](https://github.com/senu-nk/omarchy-noct-cinder-theme)
+
+```bash
 omarchy theme install https://github.com/senu-nk/omarchy-noct-cinder-theme
+```
+
+### Noct Halcyon · `#70d8ba`
+
+*deep petrol, seafoam light*
+
+[![Noct Halcyon](previews/noct-halcyon.webp)](https://github.com/senu-nk/omarchy-noct-halcyon-theme)
+
+```bash
 omarchy theme install https://github.com/senu-nk/omarchy-noct-halcyon-theme
+```
+
+### Noct Nimbus · `#92d1f1`
+
+*cold slate, pale steel*
+
+[![Noct Nimbus](previews/noct-nimbus.webp)](https://github.com/senu-nk/omarchy-noct-nimbus-theme)
+
+```bash
 omarchy theme install https://github.com/senu-nk/omarchy-noct-nimbus-theme
 ```
+
+All four are prefixed `noct-` so they sort together in `omarchy theme list`.
 
 ## How they are built
 
